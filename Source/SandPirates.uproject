@@ -12,6 +12,11 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "ExtraSoundNodes",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a51067a9275c4ee09283123c86ab1c7b"
 		}
 	]
 }
